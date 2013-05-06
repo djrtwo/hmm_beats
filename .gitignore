@@ -1,0 +1,82 @@
+IGNORE
+
+# ignore music files
+*.wav
+*.mid
+*.mp3
+*.aif
+
+# ignore image files
+*.tiff
+*.jpeg
+*.ai
+
+# ignore tex build crap
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.lof
+*.log
+*.lot
+*.synctex.gz
+*.toc
+
+# ignore hmm output files
+*.xml
+
+#built application files
+*.apk
+*.ap_
+gen
+
+# files for the dex VM
+*.dex
+
+# generated GUI files
+#*R.java
+
+#ignore nohup files
+nohup.out
+
+#Ignore patches and any original files created by patch command
+*.diff
+*.patch
+*.orig
+
+#Ignore hidden files from Dolphin window manager
+.directory
+
+#Ignore all compiled python files
+*.pyc
+*.pyo
+
+#Ignore all emacs crap
+*#
+.#*
+
+#Ignore all Java/Python class files
+*.class
+
+#Ignore ide project files
+*.pydevproject
+*.project
+*.classpath
+*.kpf
+*.komodoproject
+
+# ignore editor backup files
+*~
+*.swp
+*.swo
+*.swn
+*.swm
+
+# mac os x finder crap
+**/.DS_STORE
+.DS_STORE
+**/.DS_Store
+.DS_Store
+
+# winedt
+*.bak

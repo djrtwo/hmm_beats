@@ -1,0 +1,75 @@
+1111
+pattern00.mid	1.0
+pattern01.mid	1.0
+pattern02.mid	1.0
+
+0111
+pattern00.mid	0.9375
+pattern01.mid	0.6875
+pattern02.mid	0.5625
+
+1011
+pattern00.mid	0.8125
+pattern01.mid	0.875
+pattern02.mid	0.8125
+
+1101
+pattern00.mid	0.8125
+pattern01.mid	0.9375
+pattern02.mid	0.875
+
+1110
+pattern00.mid	0.8125
+pattern01.mid	0.8125
+pattern02.mid	0.875
+
+0011
+pattern00.mid	0.75
+pattern01.mid	0.4375
+pattern02.mid	0.5
+
+0101
+pattern00.mid	0.9375
+pattern01.mid	0.5
+pattern02.mid	0.375
+
+0110
+pattern00.mid	0.875
+pattern01.mid	0.6875
+pattern02.mid	0.5625
+
+1001
+pattern00.mid	0.5
+pattern01.mid	0.5
+pattern02.mid	0.5
+
+1010
+pattern00.mid	0.6875
+pattern01.mid	0.6875
+pattern02.mid	0.5625
+
+1100
+pattern00.mid	0.5625
+pattern01.mid	0.5
+pattern02.mid	0.5625
+
+0001
+pattern00.mid	0.375
+pattern01.mid	0.125
+pattern02.mid	0.1875
+
+0010
+pattern00.mid	0.6875
+pattern01.mid	0.375
+pattern02.mid	0.375
+
+0100
+pattern00.mid	0.3125
+pattern01.mid	0.375
+pattern02.mid	0.25
+
+1000
+pattern00.mid	0.5
+pattern01.mid	0.375
+pattern02.mid	0.125
+

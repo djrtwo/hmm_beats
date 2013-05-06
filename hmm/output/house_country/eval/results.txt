@@ -1,0 +1,2176 @@
+0110 0.414900 0.419643 0.160156 0.005301 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.5859375 0.578125 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.5859375 0.6015625 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.59375 0.59375 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.59375 0.625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.59375 0.59375 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.59375 0.59375 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.0625
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.59375 0.53125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.59375 0.5 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.234782608696
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.6 0.573913043478 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.208695652174
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.591304347826 0.547826086957 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.535714285714 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.3
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.6 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.655172413793 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.259259259259
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.518518518519 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.689655172414 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.48275862069 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.0660377358491
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.518867924528 0.603773584906 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.0660377358491
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.518867924528 0.584905660377 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.461538461538 0.692307692308 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.0666666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.6 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.555555555556 0.592592592593 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.592592592593 0.592592592593 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.678571428571 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.555555555556 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.196721311475
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.581967213115 0.614754098361 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.211382113821
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.609756097561 0.626016260163 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.7 0.6 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.612903225806 0.58064516129 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.612903225806 0.645161290323 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.161290322581
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.612903225806 0.548387096774 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.612903225806 0.483870967742 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.51724137931 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.109090909091
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.590909090909 0.590909090909 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.100917431193
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.587155963303 0.587155963303 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.633333333333 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.555555555556 0.555555555556 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.51724137931 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.633333333333 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.620689655172 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.6 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.18018018018
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.666666666667 0.558558558559 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.190909090909
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.645454545455 0.563636363636 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.714285714286 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.275862068966
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.620689655172 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.620689655172 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0970873786408
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.611650485437 0.446601941748 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0576923076923
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.528846153846 0.432692307692 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.458333333333 0.375 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0384615384615
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.5 0.5 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0384615384615
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.5 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.037037037037
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.518518518519 0.444444444444 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.642857142857 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.52 0.48 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0535714285714
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.580357142857 0.625 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0535714285714
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.571428571429 0.625 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.571428571429 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.571428571429 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.535714285714 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.535714285714 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.678571428571 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.571428571429 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.5859375 0.6015625 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.2265625
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.6484375 0.6171875 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.24
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.632 0.632 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.193548387097
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.612903225806 0.645161290323 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.25
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.71875 0.59375 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.275862068966
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.655172413793 0.655172413793 
+
+0111 0.561942 0.438058 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.165217391304
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.426086956522 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.226086956522
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.486956521739 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.642857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.666666666667 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.620689655172 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.222222222222
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.518518518519 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.655172413793 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.379310344828 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.132075471698
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.537735849057 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.132075471698
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.537735849057 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.115384615385
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.538461538462 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.533333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.407407407407 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.518518518519 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.428571428571 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.407407407407 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.295081967213
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.5 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.260162601626
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.479674796748 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.266666666667
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.5 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.225806451613
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.41935483871 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.41935483871 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.41935483871 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.225806451613
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.41935483871 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.48275862069 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.118181818182
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.445454545455 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.119266055046
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.43119266055 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.633333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.555555555556 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.413793103448 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.266666666667
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.633333333333 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.0344827586207
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.379310344828 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.1
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.466666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.126126126126
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.45045045045 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.154545454545
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.463636363636 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.464285714286 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.51724137931 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.0689655172414
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.448275862069 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.116504854369
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.495145631068 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.134615384615
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.519230769231 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.125
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.5 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.153846153846
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.576923076923 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.153846153846
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.576923076923 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.444444444444 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.535714285714 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.08
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.48 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0803571428571
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0803571428571
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.651785714286 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.571428571429 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.75 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.5234375
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.625 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.552
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.64 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.451612903226
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.612903225806 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.46875
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.551724137931
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.689655172414 
+
+0000 0.259208 0.085938 0.061384 0.016183 0.233817 0.095703 0.066127 0.042411 0.095703 0.007254 0.035156 0.001116 0.000000 0.000000 0.000000 0.000000 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.59375 0.8125 0.5 0.5859375 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.59375 0.8359375 0.5 0.5859375 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.625 0.84375 0.5 0.59375 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.625 0.8125 0.5 0.65625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.625 0.84375 0.5 0.59375 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.625 0.78125 0.5 0.59375 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.1875
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.625 0.78125 0.5 0.53125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.1875
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.625 0.75 0.5 0.59375 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.0608695652174
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.582608695652 0.695652173913 0.547826086957 0.652173913043 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.0521739130435
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.573913043478 0.686956521739 0.565217391304 0.64347826087 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.607142857143 0.678571428571 0.535714285714 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.633333333333 0.633333333333 0.533333333333 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.620689655172 0.620689655172 0.655172413793 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.555555555556 0.666666666667 0.592592592593 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.0689655172414
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.586206896552 0.689655172414 0.586206896552 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.655172413793 0.655172413793 0.586206896552 0.724137931034 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.283018867925
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.650943396226 0.783018867925 0.594339622642 0.641509433962 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.264150943396
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.650943396226 0.764150943396 0.594339622642 0.641509433962 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.192307692308
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.576923076923 0.769230769231 0.461538461538 0.5 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.633333333333 0.5 0.466666666667 0.6 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.592592592593 0.62962962963 0.407407407407 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.62962962963 0.703703703704 0.407407407407 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.357142857143
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.785714285714 0.607142857143 0.714285714286 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.592592592593 0.703703703704 0.407407407407 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.16393442623
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.573770491803 0.827868852459 0.581967213115 0.655737704918 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.130081300813
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.617886178862 0.79674796748 0.585365853659 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.733333333333 0.866666666667 0.6 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.129032258065
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.612903225806 0.774193548387 0.645161290323 0.677419354839 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.129032258065
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.612903225806 0.774193548387 0.645161290323 0.677419354839 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.161290322581
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.612903225806 0.741935483871 0.612903225806 0.677419354839 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.612903225806 0.806451612903 0.612903225806 0.677419354839 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.620689655172 0.793103448276 0.620689655172 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.581818181818 0.790909090909 0.463636363636 0.627272727273 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.247706422018
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.605504587156 0.862385321101 0.51376146789 0.660550458716 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.666666666667 0.8 0.533333333333 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.592592592593 0.592592592593 0.407407407407 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.620689655172 0.896551724138 0.51724137931 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.266666666667
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.666666666667 0.8 0.566666666667 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.586206896552 0.724137931034 0.48275862069 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.633333333333 0.633333333333 0.4 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.126126126126
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.675675675676 0.693693693694 0.486486486486 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.0909090909091
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.581818181818 0.709090909091 0.5 0.645454545455 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.642857142857 0.678571428571 0.5 0.714285714286 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.586206896552 0.724137931034 0.620689655172 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.655172413793 0.655172413793 0.51724137931 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.446601941748
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.78640776699 0.718446601942 0.766990291262 0.825242718447 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0576923076923
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.480769230769 0.701923076923 0.346153846154 0.432692307692 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.125
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.5 0.708333333333 0.375 0.375 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.115384615385
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.538461538462 0.730769230769 0.307692307692 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.115384615385
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.538461538462 0.730769230769 0.307692307692 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.555555555556 0.703703703704 0.37037037037 0.444444444444 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.714285714286 0.714285714286 0.607142857143 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.72
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.92 0.8 0.92 1.0 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.633928571429 0.776785714286 0.455357142857 0.633928571429 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.625 0.776785714286 0.455357142857 0.633928571429 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.892857142857 0.535714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.642857142857 0.571428571429 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.714285714286 0.535714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.75 0.821428571429 0.535714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.678571428571 0.678571428571 0.535714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.714285714286 0.535714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.59375 0.8359375 0.5 0.5859375 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.078125
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.625 0.8359375 0.5703125 0.65625 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.08
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.64 0.848 0.56 0.664 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.129032258065
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.677419354839 0.838709677419 0.645161290323 0.677419354839 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.0625
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.625 0.78125 0.65625 0.625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.103448275862
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.689655172414 0.827586206897 0.620689655172 0.655172413793 
+
+0001 0.362723 0.093192 0.106306 0.025949 0.221540 0.087054 0.060826 0.042411 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.5859375 0.8203125 0.515625 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.5859375 0.84375 0.515625 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.1875
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.59375 0.875 0.5625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.59375 0.84375 0.5625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.1875
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.59375 0.875 0.5625 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.59375 0.8125 0.5625 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.59375 0.8125 0.5625 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.59375 0.78125 0.5625 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.182608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.582608695652 0.695652173913 0.547826086957 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.173913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.573913043478 0.686956521739 0.565217391304 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.607142857143 0.678571428571 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.566666666667 0.633333333333 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.586206896552 0.655172413793 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.703703703704 0.666666666667 0.555555555556 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.551724137931 0.724137931034 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.689655172414 0.689655172414 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.150943396226
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.594339622642 0.783018867925 0.556603773585 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.150943396226
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.594339622642 0.764150943396 0.556603773585 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.307692307692
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 0.807692307692 0.846153846154 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.2
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.633333333333 0.566666666667 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.592592592593 0.703703703704 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.222222222222
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.62962962963 0.777777777778 0.592592592593 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.785714285714 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.592592592593 0.777777777778 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.270491803279
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.581967213115 0.83606557377 0.565573770492 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.243902439024
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.569105691057 0.813008130081 0.544715447154 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.533333333333 0.933333333333 0.5 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.258064516129
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.612903225806 0.774193548387 0.645161290323 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.258064516129
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.612903225806 0.774193548387 0.645161290323 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.258064516129
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.612903225806 0.741935483871 0.612903225806 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.290322580645
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.612903225806 0.806451612903 0.612903225806 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.275862068966
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.586206896552 0.827586206897 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.218181818182
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.590909090909 0.8 0.518181818182 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.266055045872
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.605504587156 0.862385321101 0.51376146789 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.6 0.866666666667 0.366666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.296296296296
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.666666666667 0.666666666667 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.655172413793 0.931034482759 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.6 0.866666666667 0.4 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.620689655172 0.758620689655 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.633333333333 0.7 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.207207207207
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.54954954955 0.711711711712 0.603603603604 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.572727272727 0.718181818182 0.554545454545 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.642857142857 0.678571428571 0.5 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.620689655172 0.758620689655 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.620689655172 0.689655172414 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.281553398058
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.650485436893 0.718446601942 0.592233009709 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.403846153846
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 0.711538461538 0.75 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.625
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.916666666667 0.708333333333 0.916666666667 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.461538461538
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 0.769230769231 0.846153846154 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.461538461538
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 0.769230769231 0.846153846154 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.444444444444
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 0.703703703704 0.777777777778 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.321428571429
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.714285714286 0.714285714286 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.36
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.76 0.8 0.6 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.160714285714
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.633928571429 0.776785714286 0.455357142857 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.160714285714
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.625 0.776785714286 0.455357142857 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.321428571429
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.892857142857 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.642857142857 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.714285714286 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.321428571429
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.75 0.821428571429 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.678571428571 0.678571428571 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.714285714286 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.5859375 0.84375 0.515625 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.2578125
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.6171875 0.84375 0.5859375 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.248
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.6 0.856 0.592 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.258064516129
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.677419354839 0.838709677419 0.645161290323 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.25
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375 0.8125 0.65625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.206896551724
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.51724137931 0.862068965517 0.689655172414 
+
+0011 0.451451 0.110491 0.299944 0.138114 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.0703125
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.5859375 0.6015625 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.0703125
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.5859375 0.59375 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.0625
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.59375 0.625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.59375 0.59375 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.0625
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.59375 0.625 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.0625
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.59375 0.625 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.0625
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.59375 0.6875 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.0625
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.59375 0.65625 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.582608695652 0.530434782609 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.173913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.573913043478 0.504347826087 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.678571428571 0.392857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.566666666667 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.586206896552 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.703703703704 0.444444444444 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.551724137931 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.689655172414 0.448275862069 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.0943396226415
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.61320754717 0.594339622642 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.0943396226415
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.61320754717 0.61320754717 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 0.576923076923 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.633333333333 0.4 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.592592592593 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.62962962963 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.607142857143 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.592592592593 0.555555555556 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.204918032787
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.581967213115 0.606557377049 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.19512195122
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.569105691057 0.585365853659 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.533333333333 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.612903225806 0.612903225806 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.612903225806 0.612903225806 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.225806451613
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.612903225806 0.58064516129 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.612903225806 0.516129032258 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.586206896552 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.0909090909091
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.590909090909 0.581818181818 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.110091743119
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.56880733945 0.633027522936 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.0333333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.6 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.666666666667 0.592592592593 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.655172413793 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.0333333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.6 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.620689655172 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.633333333333 0.466666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.144144144144
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.54954954955 0.531531531532 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.136363636364
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.572727272727 0.536363636364 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.642857142857 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.620689655172 0.448275862069 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.620689655172 0.448275862069 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.116504854369
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.650485436893 0.553398058252 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.163461538462
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 0.461538461538 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.916666666667 0.333333333333 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.153846153846
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 0.384615384615 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.153846153846
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 0.384615384615 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 0.407407407407 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.714285714286 0.5 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.08
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.6 0.76 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0535714285714
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.544642857143 0.544642857143 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0535714285714
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.535714285714 0.544642857143 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.5 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.571428571429 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.535714285714 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.535714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.678571428571 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.571428571429 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.0703125
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.5859375 0.59375 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.2109375
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.6171875 0.609375 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.208
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.6 0.592 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.225806451613
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.677419354839 0.612903225806 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.15625
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375 0.5625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.172413793103
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.51724137931 0.551724137931 
+
+0010 0.312779 0.102121 0.290179 0.129464 0.143136 0.017020 0.005301 0.000000 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.078125
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.59375 0.640625 0.5 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.078125
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.59375 0.6484375 0.5 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.625 0.65625 0.5 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.625 0.625 0.5 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.625 0.65625 0.5 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.625 0.59375 0.5 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.625 0.65625 0.5 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.09375
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.625 0.625 0.5 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.113043478261
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.582608695652 0.539130434783 0.573913043478 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.095652173913
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.573913043478 0.513043478261 0.55652173913 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.607142857143 0.5 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.6 0.666666666667 0.6 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.620689655172 0.448275862069 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.259259259259
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.518518518519 0.666666666667 0.592592592593 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.586206896552 0.51724137931 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.655172413793 0.551724137931 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.132075471698
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.650943396226 0.622641509434 0.490566037736 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.132075471698
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.650943396226 0.603773584906 0.490566037736 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.807692307692 0.538461538462 0.307692307692 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.1
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.6 0.533333333333 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.555555555556 0.555555555556 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.592592592593 0.555555555556 0.555555555556 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.607142857143 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.0740740740741
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.555555555556 0.62962962963 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.147540983607
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.590163934426 0.565573770492 0.549180327869 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.130081300813
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.609756097561 0.617886178862 0.536585365854 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.7 0.566666666667 0.466666666667 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.161290322581
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.612903225806 0.645161290323 0.548387096774 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.161290322581
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.612903225806 0.645161290323 0.548387096774 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.258064516129
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.612903225806 0.612903225806 0.58064516129 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.612903225806 0.548387096774 0.58064516129 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.620689655172 0.551724137931 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.154545454545
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.581818181818 0.590909090909 0.5 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.165137614679
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.605504587156 0.587155963303 0.467889908257 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.633333333333 0.633333333333 0.333333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.555555555556 0.518518518519 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.827586206897 0.655172413793 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.633333333333 0.633333333333 0.366666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.655172413793 0.620689655172 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.6 0.533333333333 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.225225225225
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.666666666667 0.54954954955 0.612612612613 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.154545454545
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.581818181818 0.527272727273 0.536363636364 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.642857142857 0.5 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.586206896552 0.551724137931 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.655172413793 0.551724137931 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.194174757282
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.78640776699 0.485436893204 0.330097087379 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.163461538462
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.653846153846 0.586538461538 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.333333333333
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.458333333333 0.416666666667 0.875 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.153846153846
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.769230769231 0.576923076923 0.384615384615 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.192307692308
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.769230769231 0.653846153846 0.384615384615 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.222222222222
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.518518518519 0.481481481481 0.740740740741 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.714285714286 0.535714285714 0.5 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.24
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.92 0.48 0.24 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.1875
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.633928571429 0.607142857143 0.446428571429 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.1875
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.625 0.607142857143 0.446428571429 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.642857142857 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.607142857143 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.607142857143 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.75 0.642857142857 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.678571428571 0.642857142857 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.607142857143 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.078125
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.59375 0.6484375 0.5 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.1484375
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.640625 0.6171875 0.6015625 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.152
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.656 0.632 0.624 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.225806451613
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.677419354839 0.645161290323 0.677419354839 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.09375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.6875 0.65625 0.46875 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.103448275862
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.758620689655 0.655172413793 0.551724137931 
+
+0101 0.455915 0.132254 0.308594 0.103237 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.75 0.8125 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.75 0.8359375 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.75 0.84375 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.75 0.8125 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.75 0.84375 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.75 0.78125 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.75 0.78125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.75 0.75 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.739130434783 0.686956521739 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.747826086957 0.678260869565 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.785714285714 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.766666666667 0.6 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.793103448276 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.333333333333
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.740740740741 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.448275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.758620689655 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.758620689655 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.716981132075 0.77358490566 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.716981132075 0.754716981132 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.730769230769 0.769230769231 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.7 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.703703703704 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.740740740741 0.740740740741 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.714285714286 0.75 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.703703703704 0.740740740741 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.401639344262
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.72131147541 0.827868852459 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.414634146341
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.739837398374 0.80487804878 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.4
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.733333333333 0.9 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.741935483871 0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.741935483871 0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.387096774194
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.741935483871 0.709677419355 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.741935483871 0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.655172413793 0.793103448276 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.745454545455 0.790909090909 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.733944954128 0.853211009174 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.733333333333 0.833333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.777777777778 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.724137931034 0.896551724138 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.733333333333 0.833333333333 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.758620689655 0.724137931034 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.766666666667 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.792792792793 0.702702702703 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.781818181818 0.709090909091 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.821428571429 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.758620689655 0.724137931034 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.827586206897 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.747572815534 0.708737864078 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.75 0.701923076923 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.75 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.769230769231 0.730769230769 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.769230769231 0.730769230769 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.740740740741 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.75 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.76 0.76 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.696428571429 0.767857142857 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.6875 0.767857142857 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.678571428571 0.857142857143 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.678571428571 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.642857142857 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.642857142857 0.785714285714 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.785714285714 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.678571428571 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.75 0.8359375 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.875 0.8359375 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.56
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.856 0.848 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.870967741935 0.806451612903 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.875 0.78125 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.793103448276 0.827586206897 
+
+0100 0.345145 0.077567 0.329520 0.108538 0.102958 0.036272 0.000000 0.000000 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.75 0.6328125 0.4921875 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.75 0.640625 0.4921875 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.75 0.625 0.46875 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.75 0.59375 0.46875 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.75 0.625 0.46875 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.125
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.75 0.5625 0.46875 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.125
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.75 0.5625 0.46875 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.15625
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.75 0.59375 0.46875 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.234782608696
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.739130434783 0.582608695652 0.55652173913 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.24347826087
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.747826086957 0.591304347826 0.573913043478 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.785714285714 0.678571428571 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.766666666667 0.433333333333 0.466666666667 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.793103448276 0.48275862069 0.48275862069 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.222222222222
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.740740740741 0.555555555556 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.275862068966
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.758620689655 0.551724137931 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.758620689655 0.586206896552 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.716981132075 0.575471698113 0.584905660377 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.716981132075 0.556603773585 0.584905660377 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0384615384615
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.730769230769 0.5 0.346153846154 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.0666666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.7 0.566666666667 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.037037037037
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.703703703704 0.444444444444 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.037037037037
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.740740740741 0.518518518519 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.714285714286 0.571428571429 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.037037037037
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.703703703704 0.518518518519 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.204918032787
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.72131147541 0.606557377049 0.55737704918 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.219512195122
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.739837398374 0.593495934959 0.585365853659 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.733333333333 0.733333333333 0.6 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.741935483871 0.483870967742 0.677419354839 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.741935483871 0.483870967742 0.677419354839 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.161290322581
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.741935483871 0.516129032258 0.645161290323 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.741935483871 0.516129032258 0.645161290323 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.655172413793 0.655172413793 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.745454545455 0.618181818182 0.490909090909 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.201834862385
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.733944954128 0.633027522936 0.504587155963 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.733333333333 0.6 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.777777777778 0.481481481481 0.407407407407 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.172413793103
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.724137931034 0.620689655172 0.413793103448 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.266666666667
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.733333333333 0.6 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.758620689655 0.655172413793 0.448275862069 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.766666666667 0.633333333333 0.4 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.216216216216
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.792792792793 0.612612612613 0.486486486486 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.236363636364
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.781818181818 0.609090909091 0.509090909091 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.821428571429 0.607142857143 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.758620689655 0.655172413793 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.827586206897 0.655172413793 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.26213592233
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.747572815534 0.436893203883 0.757281553398 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.125
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.75 0.807692307692 0.471153846154 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0833333333333
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.75 0.958333333333 0.458333333333 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.769230769231 0.846153846154 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.115384615385
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.769230769231 0.923076923077 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.740740740741 0.814814814815 0.444444444444 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.75 0.5 0.571428571429 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.32
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.76 0.44 0.88 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.696428571429 0.598214285714 0.446428571429 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.6875 0.598214285714 0.446428571429 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.678571428571 0.607142857143 0.5 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.678571428571 0.428571428571 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.642857142857 0.5 0.5 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.642857142857 0.535714285714 0.5 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.785714285714 0.392857142857 0.5 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.678571428571 0.5 0.5 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.1640625
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.75 0.640625 0.4921875 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.25
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.875 0.609375 0.53125 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.256
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.856 0.624 0.552 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.193548387097
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.870967741935 0.548387096774 0.612903225806 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.21875
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.875 0.625 0.4375 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.206896551724
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.793103448276 0.620689655172 0.51724137931 
+
+1111 1.000000 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.333333333333
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.448275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.401639344262
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.414634146341
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.4
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.387096774194
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	None
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	None
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	None
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	None
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.56
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	None
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	None
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	None
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	None
+
+1110 0.847656 0.152344 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.7578125 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.7578125 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.382608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.747826086957 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.382608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.75652173913 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.428571428571
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.821428571429 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.4
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.8 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.827586206897 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.37037037037
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.48275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.72641509434 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.72641509434 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.733333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.409836065574
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.729508196721 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.422764227642
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.747967479675 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.433333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.483870967742
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.483870967742
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.689655172414 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.754545454545 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.743119266055 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.814814814815 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.758620689655 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.8 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.801801801802 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.790909090909 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.857142857143 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.862068965517 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.757281553398 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.791666666667 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.785714285714 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.8 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.705357142857 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.696428571429 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.821428571429 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.7578125 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.5546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.8828125 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.568
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.864 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.903225806452 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.90625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.827586206897 
+
+1100 0.674665 0.186105 0.102958 0.036272 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.7578125 0.8125 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.7578125 0.8359375 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.78125 0.84375 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.78125 0.8125 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.78125 0.84375 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.78125 0.78125 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.78125 0.78125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.78125 0.75 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.747826086957 0.686956521739 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.75652173913 0.678260869565 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.821428571429 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.8 0.6 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.827586206897 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.333333333333
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.777777777778 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.448275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.793103448276 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.793103448276 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.72641509434 0.77358490566 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.72641509434 0.754716981132 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 0.769230769231 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.733333333333 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.740740740741 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.777777777778 0.740740740741 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.75 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.740740740741 0.740740740741 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.401639344262
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.729508196721 0.827868852459 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.414634146341
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.747967479675 0.80487804878 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.4
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.766666666667 0.9 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.774193548387 0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.774193548387 0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.387096774194
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.774193548387 0.709677419355 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.774193548387 0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.689655172414 0.793103448276 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.754545454545 0.790909090909 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.743119266055 0.853211009174 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.766666666667 0.833333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.814814814815 0.62962962963 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.758620689655 0.896551724138 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.766666666667 0.833333333333 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.793103448276 0.724137931034 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.8 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.801801801802 0.702702702703 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.790909090909 0.709090909091 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.857142857143 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.793103448276 0.724137931034 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.862068965517 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.757281553398 0.708737864078 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 0.701923076923 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.791666666667 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 0.730769230769 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 0.730769230769 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.785714285714 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.8 0.76 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.705357142857 0.767857142857 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.696428571429 0.767857142857 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.857142857143 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.678571428571 0.785714285714 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.821428571429 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.7578125 0.8359375 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.8828125 0.8359375 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.56
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.864 0.848 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.903225806452 0.806451612903 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.90625 0.78125 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.827586206897 0.827586206897 
+
+1101 0.790737 0.209263 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.739130434783 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.373913043478
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.747826086957 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.785714285714 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.333333333333
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.448275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.758620689655 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.758620689655 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.716981132075 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.716981132075 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.730769230769 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.7 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.703703703704 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.703703703704 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.401639344262
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.72131147541 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.414634146341
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.739837398374 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.4
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.733333333333 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.387096774194
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.655172413793 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.745454545455 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.733944954128 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.733333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.724137931034 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.733333333333 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.758620689655 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.792792792793 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.781818181818 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.821428571429 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.758620689655 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.827586206897 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.747572815534 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.769230769231 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.769230769231 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.76 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.696428571429 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.6875 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.785714285714 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.75 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.875 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.56
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.856 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.870967741935 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.875 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.793103448276 
+
+1010 0.607422 0.240234 0.143973 0.008371 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.7578125 0.59375 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.7578125 0.6015625 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.78125 0.65625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.78125 0.625 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.78125 0.65625 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.78125 0.59375 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.78125 0.59375 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.78125 0.625 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.234782608696
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.747826086957 0.486956521739 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.286956521739
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.75652173913 0.513043478261 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.464285714286
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.821428571429 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.433333333333
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.8 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.448275862069
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.827586206897 0.620689655172 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.333333333333
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.777777777778 0.592592592593 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.51724137931
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.793103448276 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.793103448276 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.0471698113208
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.72641509434 0.462264150943 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.0471698113208
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.72641509434 0.462264150943 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0384615384615
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 0.423076923077 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.1
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.733333333333 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.740740740741 0.703703703704 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.777777777778 0.555555555556 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.740740740741 0.703703703704 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.204918032787
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.729508196721 0.508196721311 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.19512195122
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.747967479675 0.50406504065 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.766666666667 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.225806451613
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.774193548387 0.516129032258 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.774193548387 0.451612903226 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.193548387097
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.774193548387 0.612903225806 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.225806451613
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.774193548387 0.548387096774 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.689655172414 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.0727272727273
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.754545454545 0.509090909091 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.0642201834862
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.743119266055 0.504587155963 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.766666666667 0.6 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.222222222222
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.814814814815 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.103448275862
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.758620689655 0.551724137931 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.766666666667 0.6 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.0344827586207
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.793103448276 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.8 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.207207207207
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.801801801802 0.441441441441 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.209090909091
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.790909090909 0.445454545455 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.857142857143 0.5 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.793103448276 0.51724137931 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.206896551724
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.862068965517 0.448275862069 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0291262135922
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.757281553398 0.466019417476 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0384615384615
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 0.490384615385 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.791666666667 0.583333333333 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 0.538461538462 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 0.538461538462 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.037037037037
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.785714285714 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.8 0.44 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0446428571429
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.705357142857 0.482142857143 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0446428571429
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.696428571429 0.482142857143 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.5 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.392857142857 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0714285714286
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.678571428571 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.821428571429 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.7578125 0.6015625 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.5546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.8828125 0.6171875 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.568
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.864 0.64 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.516129032258
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.903225806452 0.645161290323 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.53125
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.90625 0.65625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.551724137931
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.827586206897 0.689655172414 
+
+1011 0.751395 0.248605 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.7578125 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.7578125 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.78125 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.382608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.747826086957 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.382608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.75652173913 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.428571428571
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.821428571429 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.4
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.8 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.827586206897 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.37037037037
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.48275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.72641509434 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.72641509434 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.733333333333 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.740740740741 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.409836065574
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.729508196721 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.422764227642
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.747967479675 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.433333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.483870967742
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.483870967742
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.689655172414 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.754545454545 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.743119266055 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.814814814815 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.758620689655 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.766666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.8 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.801801801802 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.790909090909 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.857142857143 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.793103448276 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.862068965517 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.757281553398 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.791666666667 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.785714285714 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.8 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.705357142857 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.696428571429 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.821428571429 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.7578125 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.5546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.8828125 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.568
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.864 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.903225806452 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.90625 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.827586206897 
+
+1001 0.601842 0.188895 0.149554 0.059710 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.7578125 0.8203125 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.7578125 0.84375 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.78125 0.875 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.78125 0.84375 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.78125 0.875 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.78125 0.8125 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.78125 0.8125 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.78125 0.78125 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.382608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.747826086957 0.695652173913 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.382608695652
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.75652173913 0.686956521739 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.428571428571
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.821428571429 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.4
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.8 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.827586206897 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.37037037037
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.777777777778 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.48275862069
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.793103448276 0.724137931034 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.793103448276 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.72641509434 0.783018867925 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.103773584906
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.72641509434 0.764150943396 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 0.807692307692 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.166666666667
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.733333333333 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.740740740741 0.703703703704 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.777777777778 0.777777777778 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.785714285714 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.740740740741 0.777777777778 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.409836065574
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.729508196721 0.83606557377 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.422764227642
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.747967479675 0.813008130081 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.433333333333
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.766666666667 0.933333333333 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.483870967742
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.774193548387 0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.483870967742
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.774193548387 0.774193548387 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.774193548387 0.741935483871 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.451612903226
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.774193548387 0.806451612903 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.379310344828
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.689655172414 0.827586206897 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.181818181818
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.754545454545 0.8 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.220183486239
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.743119266055 0.862385321101 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.766666666667 0.866666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.814814814815 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.758620689655 0.931034482759 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.233333333333
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.766666666667 0.866666666667 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.793103448276 0.758620689655 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.8 0.7 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.297297297297
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.801801801802 0.711711711712 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.790909090909 0.718181818182 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.285714285714
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.857142857143 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.793103448276 0.758620689655 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.310344827586
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.862068965517 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.0679611650485
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.757281553398 0.718446601942 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 0.711538461538 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.0416666666667
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.791666666667 0.708333333333 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 0.769230769231 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.0769230769231
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 0.769230769231 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.777777777778 0.703703703704 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.785714285714 0.714285714286 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.04
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.8 0.8 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.705357142857 0.776785714286 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.0267857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.696428571429 0.776785714286 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.892857142857 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.642857142857 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.714285714286 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.678571428571 0.821428571429 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.821428571429 0.678571428571 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.0357142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.714285714286 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.7578125 0.84375 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.5546875
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.8828125 0.84375 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.568
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.864 0.856 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.548387096774
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.903225806452 0.838709677419 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.59375
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.90625 0.8125 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.620689655172
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.827586206897 0.862068965517 
+
+1000 0.493025 0.181641 0.127511 0.058594 0.095703 0.007254 0.035156 0.001116 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_C_Electronic.mid	0.7578125 0.8125 0.5 
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__01_8-Bar_Fill_C_Electronic.mid	0.7578125 0.8359375 0.5 
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_C_Electronic.mid	0.78125 0.84375 0.5 
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01_Fill_2_C_Electronic_F_.mid	0.78125 0.8125 0.5 
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01_Fill_C_Electronic_F_.mid	0.78125 0.84375 0.5 
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01a_C_Electronic.mid	0.78125 0.78125 0.5 
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.21875
+groove/electronic/house/House_-_Electronic_V__01b_C_Electronic.mid	0.78125 0.78125 0.5 
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__01c_C_Electronic.mid	0.78125 0.75 0.5 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.295652173913
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_C_Electronic.mid	0.730434782609 0.686956521739 0.530434782609 
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.226086956522
+groove/electronic/house/House_-_Electronic_V__02_8-Bar_Fill_C_Electronic.mid	0.739130434783 0.678260869565 0.44347826087 
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.392857142857
+groove/electronic/house/House_-_Electronic_V__02_C_Electronic.mid	0.821428571429 0.642857142857 0.607142857143 
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__02_Fill_2_C_Electronic_F_.mid	0.8 0.6 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__02_Fill_C_Electronic_F_.mid	0.758620689655 0.620689655172 0.413793103448 
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.296296296296
+groove/electronic/house/House_-_Electronic_V__02a_C_Electronic.mid	0.703703703704 0.62962962963 0.666666666667 
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.137931034483
+groove/electronic/house/House_-_Electronic_V__02b_C_Electronic.mid	0.724137931034 0.689655172414 0.413793103448 
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.413793103448
+groove/electronic/house/House_-_Electronic_V__02c_C_Electronic.mid	0.724137931034 0.655172413793 0.758620689655 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.169811320755
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_C_Electronic.mid	0.72641509434 0.77358490566 0.509433962264 
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.169811320755
+groove/electronic/house/House_-_Electronic_V__03_8-Bar_Fill_C_Electronic.mid	0.72641509434 0.754716981132 0.509433962264 
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.192307692308
+groove/electronic/house/House_-_Electronic_V__03_C_Electronic.mid	0.769230769231 0.769230769231 0.5 
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.133333333333
+groove/electronic/house/House_-_Electronic_V__03_Fill_2_C_Electronic_F_.mid	0.733333333333 0.533333333333 0.5 
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03_Fill_C_Electronic_F_.mid	0.666666666667 0.666666666667 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.111111111111
+groove/electronic/house/House_-_Electronic_V__03a_C_Electronic.mid	0.703703703704 0.740740740741 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__03b_C_Electronic.mid	0.75 0.75 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.148148148148
+groove/electronic/house/House_-_Electronic_V__03c_C_Electronic.mid	0.666666666667 0.740740740741 0.481481481481 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.27868852459
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_C_Electronic.mid	0.729508196721 0.827868852459 0.475409836066 
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.373983739837
+groove/electronic/house/House_-_Electronic_V__04_8-Bar_Fill_C_Electronic.mid	0.731707317073 0.80487804878 0.520325203252 
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.3
+groove/electronic/house/House_-_Electronic_V__04_C_Electronic.mid	0.766666666667 0.9 0.433333333333 
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.387096774194
+groove/electronic/house/House_-_Electronic_V__04_Fill_2_C_Electronic_F_.mid	0.709677419355 0.741935483871 0.451612903226 
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.41935483871
+groove/electronic/house/House_-_Electronic_V__04_Fill_C_Electronic_F_.mid	0.709677419355 0.741935483871 0.516129032258 
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.354838709677
+groove/electronic/house/House_-_Electronic_V__04a_C_Electronic.mid	0.709677419355 0.709677419355 0.41935483871 
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.322580645161
+groove/electronic/house/House_-_Electronic_V__04b_C_Electronic.mid	0.709677419355 0.774193548387 0.41935483871 
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.448275862069
+groove/electronic/house/House_-_Electronic_V__04c_C_Electronic.mid	0.620689655172 0.793103448276 0.655172413793 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.227272727273
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_C_Electronic.mid	0.754545454545 0.790909090909 0.509090909091 
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.357798165138
+groove/electronic/house/House_-_Electronic_V__06_8-Bar_Fill_C_Electronic.mid	0.724770642202 0.853211009174 0.559633027523 
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.433333333333
+groove/electronic/house/House_-_Electronic_V__06_C_Electronic.mid	0.766666666667 0.833333333333 0.633333333333 
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.185185185185
+groove/electronic/house/House_-_Electronic_V__06_Fill_2_C_Electronic_F_.mid	0.740740740741 0.62962962963 0.407407407407 
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.48275862069
+groove/electronic/house/House_-_Electronic_V__06_Fill_C_Electronic_F_.mid	0.689655172414 0.896551724138 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.366666666667
+groove/electronic/house/House_-_Electronic_V__06a_C_Electronic.mid	0.766666666667 0.833333333333 0.533333333333 
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__06b_C_Electronic.mid	0.724137931034 0.724137931034 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__06c_C_Electronic.mid	0.8 0.666666666667 0.566666666667 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.306306306306
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_C_Electronic.mid	0.783783783784 0.702702702703 0.576576576577 
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.272727272727
+groove/electronic/house/House_-_Electronic_V__10_8-Bar_Fill_C_Electronic.mid	0.790909090909 0.709090909091 0.509090909091 
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__10a_C_Electronic.mid	0.857142857143 0.642857142857 0.428571428571 
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.241379310345
+groove/electronic/house/House_-_Electronic_V__10b_C_Electronic.mid	0.724137931034 0.724137931034 0.586206896552 
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.344827586207
+groove/electronic/house/House_-_Electronic_V__10c_C_Electronic.mid	0.793103448276 0.655172413793 0.689655172414 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.223300970874
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_C_Electronic.mid	0.73786407767 0.708737864078 0.514563106796 
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.211538461538
+groove/electronic/house/House_-_Electronic_V__11_8-Bar_Fill_C_Electronic.mid	0.759615384615 0.701923076923 0.480769230769 
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.25
+groove/electronic/house/House_-_Electronic_V__11_C_Electronic.mid	0.791666666667 0.666666666667 0.541666666667 
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.230769230769
+groove/electronic/house/House_-_Electronic_V__11_Fill_2_C_Electronic_F_.mid	0.807692307692 0.730769230769 0.5 
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.230769230769
+groove/electronic/house/House_-_Electronic_V__11_Fill_C_Electronic_F_.mid	0.807692307692 0.730769230769 0.5 
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.222222222222
+groove/electronic/house/House_-_Electronic_V__11a_C_Electronic.mid	0.703703703704 0.666666666667 0.518518518519 
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__11b_C_Electronic.mid	0.785714285714 0.678571428571 0.464285714286 
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.2
+groove/electronic/house/House_-_Electronic_V__11c_C_Electronic.mid	0.72 0.76 0.48 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_C_Electronic.mid	0.705357142857 0.767857142857 0.526785714286 
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_8-Bar_Fill_C_Electronic.mid	0.696428571429 0.767857142857 0.526785714286 
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.178571428571
+groove/electronic/house/House_-_Electronic_V__12_C_Electronic.mid	0.714285714286 0.857142857143 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.142857142857
+groove/electronic/house/House_-_Electronic_V__12_Fill_2_C_Electronic_F_.mid	0.714285714286 0.607142857143 0.5 
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12_Fill_C_Electronic_F_.mid	0.678571428571 0.678571428571 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12a_C_Electronic.mid	0.678571428571 0.785714285714 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.214285714286
+groove/electronic/house/House_-_Electronic_V__12b_C_Electronic.mid	0.821428571429 0.642857142857 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.107142857143
+groove/electronic/house/House_-_Electronic_V__12c_C_Electronic.mid	0.714285714286 0.678571428571 0.535714285714 
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.2421875
+groove/electronic/house/House_-_Electronic_V__C_Electronic_G_.mid	0.7578125 0.8359375 0.5 
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.6484375
+groove/country/rock/Country_Rock_V__(8)_F2_R_C_Country.mid	0.8828125 0.8359375 0.8046875 
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.072
+groove/country/rock/Country_Rock_V__(8)_F4_F_C_Country.mid	0.848 0.848 0.216 
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.161290322581
+groove/country/rock/Country_Rock_V__D_C_Country.mid	0.838709677419 0.806451612903 0.322580645161 
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.5625
+groove/country/rock/Country_Rock_V__F2_R_C_Country_F_.mid	0.90625 0.78125 0.78125 
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.137931034483
+groove/country/rock/Country_Rock_V__F4_F_C_Country_F_.mid	0.758620689655 0.827586206897 0.379310344828 
+

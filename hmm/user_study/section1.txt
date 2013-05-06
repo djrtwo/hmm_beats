@@ -1,0 +1,37 @@
+\documentclass{article}
+
+\begin{document}
+
+\section{Instructed}
+
+Perform the following actions:
+
+\bf{Sequence 1}
+
+\begin{itemize}
+    \item Turn on the sequencer
+    \item Add a snare drum beat sequence
+    \item Request the open high hat
+    \item Edit the open high hat
+    \item Request the closed high hat
+    \item Edit the closed high hat
+    \item Request the bass drum
+    \item Make edits until you are satisfied with the beat
+\end{itemize}
+
+\bf{Sequence 2}
+\begin{itemize}
+    \item Clear each drum
+    \item Request the closed high hat
+    \item Edit the closed high hat
+    \item Request the bass drum
+    \item Request the open high hat
+    \item Request the snare drum
+    \item Clear the bass drum
+    \item Edit the snare drum
+    \item Request the bass drum
+    \item Edit the snare drum
+    \item Request the bass drum
+    \item Edit the open and closed high hats
+    \item Request the bass drum
+\end{itemize}

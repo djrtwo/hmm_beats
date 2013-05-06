@@ -1,0 +1,20 @@
+Module to convert a midi song to data for a ghmm model using music21
+    input - data_set_name midi_paths
+    
+build transition model
+    needs number of instruments
+    otherwise, treat each midi note as a new instrument
+    output arrays that can be used by ghmm
+    
+    hidden_state = total_drums - observed
+    
+    
+
+
+
+Given a midi file:
+    for each hidden/visible combination:
+        build transition/emission
+        build hmm
+        get most likely sequence given the visible states
+        compare against the hidden states

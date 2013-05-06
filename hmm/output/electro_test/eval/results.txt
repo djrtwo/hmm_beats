@@ -1,0 +1,320 @@
+0110 0.524476 0.272727 0.160839 0.041958 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 0.75 
+data/kshp1_ext/pattern01.mid	0.25
+data/kshp1_ext/pattern01.mid	0.625 0.625 
+data/kshp1_ext/pattern02.mid	0.4375
+data/kshp1_ext/pattern02.mid	0.625 0.75 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.625 0.875 
+data/kshp1_ext/pattern04.mid	0.3125
+data/kshp1_ext/pattern04.mid	0.75 0.6875 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.6875 0.875 
+data/kshp1_ext/pattern06.mid	0.0666666666667
+data/kshp1_ext/pattern06.mid	0.533333333333 0.6 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.625 0.75 
+data/kshp1_ext/pattern08.mid	0.3125
+data/kshp1_ext/pattern08.mid	0.5625 0.625 
+
+0111 0.685315 0.314685 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 
+data/kshp1_ext/pattern01.mid	0.25
+data/kshp1_ext/pattern01.mid	0.625 
+data/kshp1_ext/pattern02.mid	0.4375
+data/kshp1_ext/pattern02.mid	0.625 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.625 
+data/kshp1_ext/pattern04.mid	0.3125
+data/kshp1_ext/pattern04.mid	0.75 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.6875 
+data/kshp1_ext/pattern06.mid	0.0666666666667
+data/kshp1_ext/pattern06.mid	0.333333333333 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.625 
+data/kshp1_ext/pattern08.mid	0.3125
+data/kshp1_ext/pattern08.mid	0.5625 
+
+0000 0.202797 0.160839 0.139860 0.027972 0.104895 0.083916 0.076923 0.000000 0.090909 0.020979 0.013986 0.006993 0.048951 0.013986 0.006993 0.000000 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 0.625 0.75 0.5625 
+data/kshp1_ext/pattern01.mid	0.25
+data/kshp1_ext/pattern01.mid	0.625 0.5 0.75 0.6875 
+data/kshp1_ext/pattern02.mid	0.375
+data/kshp1_ext/pattern02.mid	0.625 0.625 0.875 0.75 
+data/kshp1_ext/pattern03.mid	0.1875
+data/kshp1_ext/pattern03.mid	0.625 0.5 0.875 0.75 
+data/kshp1_ext/pattern04.mid	0.0625
+data/kshp1_ext/pattern04.mid	0.75 0.4375 0.5625 0.75 
+data/kshp1_ext/pattern05.mid	0.0625
+data/kshp1_ext/pattern05.mid	0.6875 0.5 0.5 0.75 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.4 0.6 0.666666666667 0.8 
+data/kshp1_ext/pattern07.mid	0.0625
+data/kshp1_ext/pattern07.mid	0.625 0.5 0.5625 0.625 
+data/kshp1_ext/pattern08.mid	0.1875
+data/kshp1_ext/pattern08.mid	0.5625 0.5 0.5625 0.6875 
+
+0001 0.293706 0.181818 0.153846 0.034965 0.153846 0.097902 0.083916 0.000000 
+data/kshp1_ext/pattern00.mid	0.4375
+data/kshp1_ext/pattern00.mid	0.75 0.75 0.75 
+data/kshp1_ext/pattern01.mid	0.1875
+data/kshp1_ext/pattern01.mid	0.625 0.375 0.75 
+data/kshp1_ext/pattern02.mid	0.375
+data/kshp1_ext/pattern02.mid	0.625 0.5 0.875 
+data/kshp1_ext/pattern03.mid	0.25
+data/kshp1_ext/pattern03.mid	0.625 0.5 0.875 
+data/kshp1_ext/pattern04.mid	0.1875
+data/kshp1_ext/pattern04.mid	0.75 0.5625 0.5625 
+data/kshp1_ext/pattern05.mid	0.0625
+data/kshp1_ext/pattern05.mid	0.6875 0.5 0.5 
+data/kshp1_ext/pattern06.mid	0.2
+data/kshp1_ext/pattern06.mid	0.6 0.4 0.533333333333 
+data/kshp1_ext/pattern07.mid	0.0625
+data/kshp1_ext/pattern07.mid	0.625 0.5 0.5625 
+data/kshp1_ext/pattern08.mid	0.25
+data/kshp1_ext/pattern08.mid	0.5625 0.625 0.5625 
+
+0011 0.447552 0.279720 0.237762 0.034965 
+data/kshp1_ext/pattern00.mid	0.4375
+data/kshp1_ext/pattern00.mid	0.75 0.75 
+data/kshp1_ext/pattern01.mid	0.1875
+data/kshp1_ext/pattern01.mid	0.625 0.375 
+data/kshp1_ext/pattern02.mid	0.375
+data/kshp1_ext/pattern02.mid	0.625 0.5 
+data/kshp1_ext/pattern03.mid	0.25
+data/kshp1_ext/pattern03.mid	0.625 0.5 
+data/kshp1_ext/pattern04.mid	0.1875
+data/kshp1_ext/pattern04.mid	0.75 0.5625 
+data/kshp1_ext/pattern05.mid	0.0625
+data/kshp1_ext/pattern05.mid	0.6875 0.5 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.533333333333 0.4 
+data/kshp1_ext/pattern07.mid	0.0625
+data/kshp1_ext/pattern07.mid	0.625 0.5 
+data/kshp1_ext/pattern08.mid	0.25
+data/kshp1_ext/pattern08.mid	0.5625 0.625 
+
+0010 0.307692 0.244755 0.216783 0.027972 0.139860 0.034965 0.020979 0.006993 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.8125 0.625 0.625 
+data/kshp1_ext/pattern01.mid	0.1875
+data/kshp1_ext/pattern01.mid	0.6875 0.5 0.625 
+data/kshp1_ext/pattern02.mid	0.3125
+data/kshp1_ext/pattern02.mid	0.5625 0.625 0.75 
+data/kshp1_ext/pattern03.mid	0.125
+data/kshp1_ext/pattern03.mid	0.5625 0.5 0.75 
+data/kshp1_ext/pattern04.mid	0.0625
+data/kshp1_ext/pattern04.mid	0.6875 0.4375 0.4375 
+data/kshp1_ext/pattern05.mid	0.0625
+data/kshp1_ext/pattern05.mid	0.625 0.5 0.5 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.6 0.533333333333 0.666666666667 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.5625 0.5 0.5625 
+data/kshp1_ext/pattern08.mid	0.1875
+data/kshp1_ext/pattern08.mid	0.625 0.5 0.5625 
+
+0101 0.447552 0.216783 0.237762 0.097902 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 0.75 
+data/kshp1_ext/pattern01.mid	0.25
+data/kshp1_ext/pattern01.mid	0.625 0.625 
+data/kshp1_ext/pattern02.mid	0.4375
+data/kshp1_ext/pattern02.mid	0.625 0.75 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.625 0.875 
+data/kshp1_ext/pattern04.mid	0.3125
+data/kshp1_ext/pattern04.mid	0.75 0.6875 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.6875 0.875 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.333333333333 0.666666666667 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.625 0.75 
+data/kshp1_ext/pattern08.mid	0.3125
+data/kshp1_ext/pattern08.mid	0.5625 0.625 
+
+0100 0.342657 0.188811 0.181818 0.083916 0.104895 0.027972 0.055944 0.013986 
+data/kshp1_ext/pattern00.mid	0.125
+data/kshp1_ext/pattern00.mid	0.75 0.3125 0.75 
+data/kshp1_ext/pattern01.mid	0.125
+data/kshp1_ext/pattern01.mid	0.625 0.5625 0.75 
+data/kshp1_ext/pattern02.mid	0.1875
+data/kshp1_ext/pattern02.mid	0.625 0.4375 0.875 
+data/kshp1_ext/pattern03.mid	0.3125
+data/kshp1_ext/pattern03.mid	0.625 0.5625 0.875 
+data/kshp1_ext/pattern04.mid	0.25
+data/kshp1_ext/pattern04.mid	0.75 0.5 0.5625 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.6875 0.5625 0.5 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.466666666667 0.666666666667 0.466666666667 
+data/kshp1_ext/pattern07.mid	0.25
+data/kshp1_ext/pattern07.mid	0.625 0.5625 0.5625 
+data/kshp1_ext/pattern08.mid	0.1875
+data/kshp1_ext/pattern08.mid	0.5625 0.4375 0.5625 
+
+1111 1.000000 
+data/kshp1_ext/pattern00.mid	0.125
+data/kshp1_ext/pattern00.mid	None
+data/kshp1_ext/pattern01.mid	0.125
+data/kshp1_ext/pattern01.mid	None
+data/kshp1_ext/pattern02.mid	0.1875
+data/kshp1_ext/pattern02.mid	None
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	None
+data/kshp1_ext/pattern04.mid	0.1875
+data/kshp1_ext/pattern04.mid	None
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	None
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	None
+data/kshp1_ext/pattern07.mid	0.1875
+data/kshp1_ext/pattern07.mid	None
+data/kshp1_ext/pattern08.mid	0.125
+data/kshp1_ext/pattern08.mid	None
+
+1110 0.797203 0.202797 
+data/kshp1_ext/pattern00.mid	0.1875
+data/kshp1_ext/pattern00.mid	0.8125 
+data/kshp1_ext/pattern01.mid	0.125
+data/kshp1_ext/pattern01.mid	0.8125 
+data/kshp1_ext/pattern02.mid	0.1875
+data/kshp1_ext/pattern02.mid	0.5625 
+data/kshp1_ext/pattern03.mid	0.5
+data/kshp1_ext/pattern03.mid	0.8125 
+data/kshp1_ext/pattern04.mid	0.25
+data/kshp1_ext/pattern04.mid	0.6875 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.625 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.6 
+data/kshp1_ext/pattern07.mid	0.1875
+data/kshp1_ext/pattern07.mid	0.6875 
+data/kshp1_ext/pattern08.mid	0.1875
+data/kshp1_ext/pattern08.mid	0.75 
+
+1100 0.531469 0.265734 0.132867 0.069930 
+data/kshp1_ext/pattern00.mid	0.125
+data/kshp1_ext/pattern00.mid	0.75 0.6875 
+data/kshp1_ext/pattern01.mid	0.125
+data/kshp1_ext/pattern01.mid	0.75 0.6875 
+data/kshp1_ext/pattern02.mid	0.25
+data/kshp1_ext/pattern02.mid	0.625 0.8125 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.75 0.8125 
+data/kshp1_ext/pattern04.mid	0.1875
+data/kshp1_ext/pattern04.mid	0.625 0.625 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.5625 0.8125 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.666666666667 0.666666666667 
+data/kshp1_ext/pattern07.mid	0.1875
+data/kshp1_ext/pattern07.mid	0.75 0.6875 
+data/kshp1_ext/pattern08.mid	0.125
+data/kshp1_ext/pattern08.mid	0.6875 0.5625 
+
+1101 0.664336 0.335664 
+data/kshp1_ext/pattern00.mid	0.125
+data/kshp1_ext/pattern00.mid	0.75 
+data/kshp1_ext/pattern01.mid	0.125
+data/kshp1_ext/pattern01.mid	0.75 
+data/kshp1_ext/pattern02.mid	0.1875
+data/kshp1_ext/pattern02.mid	0.625 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.75 
+data/kshp1_ext/pattern04.mid	0.1875
+data/kshp1_ext/pattern04.mid	0.625 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.5625 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.666666666667 
+data/kshp1_ext/pattern07.mid	0.1875
+data/kshp1_ext/pattern07.mid	0.75 
+data/kshp1_ext/pattern08.mid	0.125
+data/kshp1_ext/pattern08.mid	0.6875 
+
+1010 0.552448 0.244755 0.174825 0.027972 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 0.75 
+data/kshp1_ext/pattern01.mid	0.25
+data/kshp1_ext/pattern01.mid	0.625 0.625 
+data/kshp1_ext/pattern02.mid	0.4375
+data/kshp1_ext/pattern02.mid	0.625 0.75 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.625 0.875 
+data/kshp1_ext/pattern04.mid	0.3125
+data/kshp1_ext/pattern04.mid	0.75 0.6875 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.6875 0.875 
+data/kshp1_ext/pattern06.mid	0.0666666666667
+data/kshp1_ext/pattern06.mid	0.533333333333 0.6 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.625 0.75 
+data/kshp1_ext/pattern08.mid	0.3125
+data/kshp1_ext/pattern08.mid	0.5625 0.625 
+
+1011 0.727273 0.272727 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 
+data/kshp1_ext/pattern01.mid	0.25
+data/kshp1_ext/pattern01.mid	0.625 
+data/kshp1_ext/pattern02.mid	0.4375
+data/kshp1_ext/pattern02.mid	0.625 
+data/kshp1_ext/pattern03.mid	0.4375
+data/kshp1_ext/pattern03.mid	0.625 
+data/kshp1_ext/pattern04.mid	0.3125
+data/kshp1_ext/pattern04.mid	0.75 
+data/kshp1_ext/pattern05.mid	0.3125
+data/kshp1_ext/pattern05.mid	0.6875 
+data/kshp1_ext/pattern06.mid	0.0666666666667
+data/kshp1_ext/pattern06.mid	0.533333333333 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.625 
+data/kshp1_ext/pattern08.mid	0.3125
+data/kshp1_ext/pattern08.mid	0.5625 
+
+1001 0.475524 0.188811 0.251748 0.083916 
+data/kshp1_ext/pattern00.mid	0.3125
+data/kshp1_ext/pattern00.mid	0.75 0.75 
+data/kshp1_ext/pattern01.mid	0.3125
+data/kshp1_ext/pattern01.mid	0.625 0.625 
+data/kshp1_ext/pattern02.mid	0.4375
+data/kshp1_ext/pattern02.mid	0.625 0.75 
+data/kshp1_ext/pattern03.mid	0.3125
+data/kshp1_ext/pattern03.mid	0.625 0.75 
+data/kshp1_ext/pattern04.mid	0.3125
+data/kshp1_ext/pattern04.mid	0.75 0.6875 
+data/kshp1_ext/pattern05.mid	0.25
+data/kshp1_ext/pattern05.mid	0.6875 0.75 
+data/kshp1_ext/pattern06.mid	0.2
+data/kshp1_ext/pattern06.mid	0.466666666667 0.666666666667 
+data/kshp1_ext/pattern07.mid	0.125
+data/kshp1_ext/pattern07.mid	0.625 0.625 
+data/kshp1_ext/pattern08.mid	0.25
+data/kshp1_ext/pattern08.mid	0.5625 0.625 
+
+1000 0.363636 0.167832 0.188811 0.076923 0.111888 0.020979 0.062937 0.006993 
+data/kshp1_ext/pattern00.mid	0.25
+data/kshp1_ext/pattern00.mid	0.75 0.5 0.5625 
+data/kshp1_ext/pattern01.mid	0.1875
+data/kshp1_ext/pattern01.mid	0.5 0.5 0.5625 
+data/kshp1_ext/pattern02.mid	0.375
+data/kshp1_ext/pattern02.mid	0.625 0.75 0.6875 
+data/kshp1_ext/pattern03.mid	0.3125
+data/kshp1_ext/pattern03.mid	0.75 0.75 0.5625 
+data/kshp1_ext/pattern04.mid	0.25
+data/kshp1_ext/pattern04.mid	0.75 0.6875 0.5 
+data/kshp1_ext/pattern05.mid	0.0625
+data/kshp1_ext/pattern05.mid	0.4375 0.625 0.5625 
+data/kshp1_ext/pattern06.mid	0.133333333333
+data/kshp1_ext/pattern06.mid	0.266666666667 0.6 0.733333333333 
+data/kshp1_ext/pattern07.mid	0.25
+data/kshp1_ext/pattern07.mid	0.5 0.625 0.5 
+data/kshp1_ext/pattern08.mid	0.3125
+data/kshp1_ext/pattern08.mid	0.5625 0.75 0.625 
+

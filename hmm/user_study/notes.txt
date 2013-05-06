@@ -1,0 +1,28 @@
+The purpose of the user study is to test two things:
+    1) has the system in fact successfully learned
+    2) is the system useful from a musical and performance perspective
+
+
+To accomplish (1), the user is asked to evaluate two systems - System-A and System-B.  For each study, System-A and System-B are randomly assigned.  One of the two systems (LEARN) utilizes the machine learning to fill the user's request for beats, while the other of the two systems (RANDOM) uses a more naive, random approach.  
+
+For RANDOM if each beat is simply a 50% chance of on/off,  entirely unrealistic, dense beat patterns are produced.  It would be very obvious to the user that such a system is the naive system.  Instead, RANDOM employs a smarter, yet still relatively naive compared to LEARN, statistical approach.  When processing a dataset for the machine learning, we also track the frequency with which a drum is on or off at each beat.  For example, if DrumA is on for 40 beats of the 200 beat dataset, then it's on-frequency is then $40/200$, or 0.20, while it's off-frequency is 0.80.  We then leverage this frequency in RANDOM.  The first attempt at leveraging this frequency was to have a request for DrumA return a beat with exactly 20% of its beats as on.  For example, if the total length of the line is 16 beats, then $0.20*16$ or (rounded) 3, of the beats would randomly be selected to be turned on while the other 13 would be off.  This method provides a beat more tailer to the drum set, but after making a few beat requests, it becomes somewhat obvious that this system is hardwired to always have the same number of beats for each drum.
+
+The next tweak to RANDOM was to leverage the frequency information but not to have the system always return the same number of beats exactly matching the frequency.  Instead the frequency is used as the center of a random triangular distribution.  The function triangular() takes as input a frequency from 0.0 to 1.0 and returns a random adjusted frequency between 0.0 and 1.0 according to the triangular distribution centered at the input frequency.  We can see this in action via graphA.  GraphA displays a an experiment using triangular with DrumA's input frequency, 0.20.  Triangular was run 100000 times, each time converting the adjusted frequency into the number of beats to turn on.  The results visually show the relative likely hood of each number of beats showing up upon a user's request.
+
+The final adjustment made to RANDOM to make the system better mimic LEARN is the enforce that the same result is returned if the user requests beats for the same drum in succession.  In LEARN, the same beat is always returned if a particular drum is queried multiple times without any of the other drums changed.  Thus RANDOM gives similar functionality.
+
+The user study is divided into three sections:
+    - Instructed
+    - Stylistic
+    - Open
+    
+For `Instructed', the user is asked to carry out a series of specific tasks on first System-A and then on System-B.  The user is then asked to evaluate their experience executing these tasks on each system.
+
+For `Stylistic', the user is asked to construct beats of a designated style first on System-A and then on System-B.  The user is asked to take approximately a minute to create beats by triggering drums manually as well as requesting input from the computer.  The user is then asked to evaluate their experience constructing beats on each system.
+
+For `Open', the user is asked to spend approximately one minute exploring beats however they see fit with no specific stylistic goal in mind.  The user can manually trigger beats and make beat requests with as little or as much frequency as they choose.  The user is then asked to evaluate their experience constructing beats on each system.
+
+After each of these sections has been completed, the user is asked to evaluate their general experience with System-A and System-B, and with The System as a whole.  They are asked to discuss if they could imagine The System used in performance and if so, how so.  They are also asked to speculate on how the system could be further developed to be better suited for performance.
+
+
+

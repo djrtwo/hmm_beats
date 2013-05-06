@@ -1,0 +1,21 @@
+Hi, thank you for participating in the evaluation of this system.
+
+The core of the system is a beat sequencer.  At each beat, you can select which drums you want to be triggered at that beat.  The software sequences across the beats, triggering the samples and looping to the beginning when it reaches the end.  Let's take a moment to become familiar with this aspect of the system.
+
+Each row represents a drum sample.  The system first sequences across the top 4 rows and then across the bottom 4 rows.  The bottom 4 rows are simply an extension to the top 4 rows. 
+
+**(press play button to illustrate green sequencing lights)**
+**(show what each row represents - Bass, Snare, Closed High-hat, Open High-hat)**
+**(show clear row button, show stop button)**
+
+Do you have any questions about the basic beat sequencer?
+
+In addition to being a beat sequencer, this system offers you additional functionality to aid in your beat compositions.  At your request, a computer agent will provide you with the beats for a given drum.  
+
+**(show the 4 buttons that make requests)**
+
+Today, you will be performing a series of tasks on two different versions of the system - namely, System-A and System-B.  The beat sequencer on System-A and System-B is exactly the same, but the computer agent's beat making decisions are guided by different principles.
+
+The tasks are divided into three sections.  Each section has a set of instructions for you to carry out on first System-A and second on System-B, following by few brief questions about your experience.  Following the three sections, you will be asked to evaluate the system  as a whole.
+
+Do you have any questions before we begin?

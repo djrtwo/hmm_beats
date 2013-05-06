@@ -1,0 +1,259 @@
+\documentclass[12pt,fleqn]{scrreprt}
+
+\usepackage[ngerman]{babel}
+\usepackage[top=2.5cm,bottom=2.5cm,left=2cm,right=2cm]{geometry}
+\usepackage[latin1]{inputenc}
+\usepackage{paperandpencil}
+
+\usepackage{wasysym}% provides \ocircle and \Box
+\usepackage{enumitem}% easy control of topsep and leftmargin for lists
+\usepackage{color}% used for background color
+\usepackage{forloop}% used for \Qrating and \Qlines
+\usepackage{ifthen}% used for \Qitem and \QItem
+\usepackage{typearea}
+\areaset{17cm}{26cm}
+\setlength{\topmargin}{-1cm}
+\usepackage{scrpage2}
+\pagestyle{scrheadings}
+\ihead{System Evaluation}
+\ohead{\pagemark}
+\chead{}
+
+\newcommand{\Qline}[1]{\noindent\rule{#1}{0.6pt}}
+  
+\begin{document}
+
+\begin{center}
+  \textbf{\huge System Evaluation}
+\end{center}\vskip1em
+
+\noindent Thank you for taking the time to help with the evaluation of this system.
+
+%% USER INFORMATION
+\begin{coloredfilter}
+    \section*{User Information}
+    \begin{tabular}{ l c r }
+        \bf{Name}: \Qline{7cm} & \bf{Age}: \Qline{1.5cm} & \bf{Date} \Qline{2.5cm}
+    \end{tabular}
+    \\
+    \begin{tabular}{l c r}
+        \bf{Student}: Y / N & \bf{Music Background}: Y / N & \bf{CS Background}: Y / N
+    \end{tabular}
+    \vskip1em
+\end{coloredfilter}
+
+\minisec{Background Information}
+\vskip1em
+\noindent Please indicate your familiarity with the following. (`10' indicating very familiar with, and `0' indicating not familiar with at all)
+\hupAten{\bf{Performance}}{}
+\hupAten{\bf{Composition}}{}
+\hupAten{\bf{Drumming}}{}
+\hupAten{\bf{Electronic Music}}{}
+\hupAten{\bf{Electronic Controllers}}{}
+\hupAten{\bf{Sequencers}}{}
+
+
+\newpage
+
+\section*{Section 1: Instructed Use}
+\minisec{System-A}
+
+\noindent Please rate how coherent the computer beats were in relation to other beats already input.
+\hupAten{}{}
+
+\noindent Please rate the computer beat input from 1 to 5 for each of the following metrics.
+\begin{semanticfive}
+    \semfive{Nonmusical}{Musical}
+    \semfive{Dull}{Interesting}
+    \semfive{Trivial}{Complex}
+    \semfive{Random}{Structured}
+    \semfive{Expected}{Surprising}
+    \semfive{Unsatisfying}{Satisfying}
+\end{semanticfive}
+
+\minisec{System-B}
+
+\noindent Please rate how coherent the computer beats were in relation to other beats already input.
+\hupAten{}{}
+
+\noindent Please rate the computer beat input from 1 to 5 for each of the following metrics.
+\begin{semanticfive}
+    \semfive{Nonmusical}{Musical}
+    \semfive{Dull}{Interesting}
+    \semfive{Trivial}{Complex}
+    \semfive{Random}{Structured}
+    \semfive{Expected}{Surprising}
+    \semfive{Unsatisfying}{Satisfying}
+\end{semanticfive}
+
+\minisec{Questions}
+Which of the systems (A or B) better provided beats that fit with the other rhythms on the sequencer?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{Indistinguishable}
+\end{answersA}
+\vskip1em
+Which of the systems (A or B) would you rate as more musically competent?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{Indistinguishable}
+\end{answersA}
+\vskip1em
+Which of the systems (A or B) did you prefer when completing this series of tasks?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{No preference}
+\end{answersA}
+
+\newpage
+
+\section*{Section 2: Open Instructed}
+\minisec{System-A}
+
+\noindent Please rate how coherent the computer beats were in relation to other beats already input.
+\hupAten{}{}
+
+\noindent Please rate the computer beat input from 1 to 5 for each of the following metrics.
+\begin{semanticfive}
+    \semfive{Nonmusical}{Musical}
+    \semfive{Dull}{Interesting}
+    \semfive{Trivial}{Complex}
+    \semfive{Random}{Structured}
+    \semfive{Expected}{Surprising}
+    \semfive{Unsatisfying}{Satisfying}
+\end{semanticfive}
+
+\minisec{System-B}
+
+\noindent Please rate how coherent the computer beats were in relation to other beats already input.
+\hupAten{}{}
+
+\noindent Please rate the computer beat input from 1 to 5 for each of the following metrics.
+\begin{semanticfive}
+    \semfive{Nonmusical}{Musical}
+    \semfive{Dull}{Interesting}
+    \semfive{Trivial}{Complex}
+    \semfive{Random}{Structured}
+    \semfive{Expected}{Surprising}
+    \semfive{Unsatisfying}{Satisfying}
+\end{semanticfive}
+
+\minisec{Questions}
+Which of the systems (A or B) better provided beats that fit with the other rhythms on the sequencer?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{Indistinguishable}
+\end{answersA}
+\vskip1em
+Which of the systems (A or B) would you rate as more musically competent?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{Indistinguishable}
+\end{answersA}
+\vskip1em
+Which of the systems (A or B) did you prefer when completing this series of tasks?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{No preference}
+\end{answersA}
+
+\newpage
+
+\section*{Section 3: Open}
+\minisec{System-A}
+
+\noindent Please rate how coherent the computer beats were in relation to other beats already input.
+\hupAten{}{}
+
+\noindent Please rate the computer beat input from 1 to 5 for each of the following metrics.
+\begin{semanticfive}
+    \semfive{Nonmusical}{Musical}
+    \semfive{Dull}{Interesting}
+    \semfive{Trivial}{Complex}
+    \semfive{Random}{Structured}
+    \semfive{Expected}{Surprising}
+    \semfive{Unsatisfying}{Satisfying}
+\end{semanticfive}
+
+\minisec{System-B}
+
+\noindent Please rate how coherent the computer beats were in relation to other beats already input.
+\hupAten{}{}
+
+\noindent Please rate the computer beat input from 1 to 5 for each of the following metrics.
+\begin{semanticfive}
+    \semfive{Nonmusical}{Musical}
+    \semfive{Dull}{Interesting}
+    \semfive{Trivial}{Complex}
+    \semfive{Random}{Structured}
+    \semfive{Expected}{Surprising}
+    \semfive{Unsatisfying}{Satisfying}
+\end{semanticfive}
+
+\minisec{Questions}
+Which of the systems (A or B) did you prefer when creating beats?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{No preference}
+\end{answersA}
+\vskip1em
+Which of the systems (A or B) better aided in creating beats?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{Indistinguishable}
+\end{answersA}
+
+\newpage
+
+\section*{General Evaluation}
+Which of the systems (A or B) would you rate as more musically intelligent?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{Indistinguishable}
+\end{answersA}
+\vskip1em
+Which of the systems (A or B) would you expect a musician to be more likely to use in performance and/or composition?
+\begin{answersA}
+    \item \pbox{System-A}
+    \item \pbox{System-B}
+    \item \pbox{No preference}
+\end{answersA}
+\vskip1em
+If you showed a strong preference of either System-A or System-B, describe why.
+\\\\\\\\
+Do you think a system like this would be useful to a musician in \emph{composition}?
+\begin{answersA}
+    \item \pbox{Yes}
+    \item \pbox{No}
+\end{answersA}
+
+Why or why not? If yes, describe how a musician might use it.
+\\\\\\\\
+
+Do you think a system like this would be useful to a musician in \emph{performance}?
+\begin{answersA}
+    \item \pbox{Yes}
+    \item \pbox{No}
+\end{answersA}
+
+Why or why not? If yes, describe how a musician might use it.
+\\\\\\\\
+
+Describe how this system might be extended, enhanced, or altered to be more useful to a musician.
+\\\\\\\\\\
+
+What are your thoughts on the use of an intelligent computer agent in music composition and live performance?
+\\\\\\\\\\
+
+If you were responsible for naming this system, what would you call it?
+
+\end{document}

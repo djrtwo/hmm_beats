@@ -1,0 +1,30 @@
+10 LEARN
+34 N Y Y
+10 10 7 10 10 8
+
+8
+4 5 3 4 4 5
+4
+3 4 2 2 5 3
+A A A
+
+9
+5 5 4 4 4 5
+4
+2 3 3 1 5 3
+A A A
+
+9
+4 3 4 5 4 5
+2
+2 3 2 1 5 2
+A A
+
+A
+A
+"it felt more like system A was aware of the context when placing new patterns.  system B felt more oblivious"
+Y "definitely! It could be a great way to generate variations or fills on beat patterns, or to generate completely new patterns by starting with an essentially random seed."
+Y "easy to dynamically adjust beats.  It might need some kind of storage and pattern memory, so when you find something cool, you can return to it."
+"allow for more than four drums.  Have easily selectable and combinable pattern libraries for the intelligence.  Have a simple way to enter new patterns to train on"
+"I love it.  It really helps in the act of creation to have surprising elements take you in a direction you wouldn't have though of to push you out of your compositional ruts."
+"Smartybeat"
